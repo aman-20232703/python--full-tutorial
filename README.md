@@ -112,25 +112,29 @@
 
 #### Ready to extend for projects, mini apps, or learning paths
 
+---
+
 ### License
 This project is open-source and free to for all
 
 ### Contribute
 Feel free to fork this repo, suggest improvements, or contribute your own examples to make this the most helpful.
 
+---
+
 
 ## Vote of Thanks
 Special thanks to CodeWithHarry whose tutorials played a major role in helping me learn Python and build this comprehensive guide.
 
 ### References
-### Python Official Docs
+- Python Official Docs
 
-### CodeWithHarry Python Playlist
+- CodeWithHarry Python Playlist
 
-### GeeksForGeeks Python
+- GeeksForGeeks Python
 
-### W3Schools Python
+- W3Schools Python
 
-### Real Python
+- Real Python
 
 
