@@ -13,6 +13,8 @@
 
 #### String slicing and string methods
 
+---
+
 ### Operators
 #### Arithmetic, relational, logical, and shorthand operators
 
@@ -25,12 +27,16 @@
 
 #### Reverse number, KBC-style question format
 
+---
+
 ### Functions
 #### Built-in vs user-defined functions
 
 #### Function arguments (default, keyword, *args, **kwargs)
 
 #### Return values, recursion (factorial, Fibonacci)
+
+---
 
 ### Data Structures
 #### Lists, list methods, and list comprehensions
@@ -41,6 +47,8 @@
 
 #### Dictionaries and their methods
 
+---
+
 ### Modules & Packages
 #### Built-in modules (math, os, time, etc.)
 
@@ -50,17 +58,21 @@
 
 #### Virtual environments
 
+---
+
 ### File Handling
 #### Reading, writing, appending, modes (r, w, a, rb, etc.)
 
 #### with context manager, seek(), tell(), readlines(), writelines()
+
+---
 
 ### Object-Oriented Programming (OOP)
 #### Classes and objects
 
 #### __init__ constructor
 
-####Class vs instance variables
+#### Class vs instance variables
 
 #### Inheritance (single, multilevel, multiple, hierarchical, hybrid)
 
@@ -72,16 +84,24 @@
 
 #### Operator overloading
 
+---
+
 ### Requirements
 #### Most modules are built-in. However, to use features like PDF handling or TTS:
             ~ pip install pypdf
-            ~ pip install pywin32
+            ~ pip install requests
+            and more.......
+
+---
+
 ### File Structure
 #### python.py — The main tutorial file containing code snippets, explanations, and demos.
 
 #### myfile.txt, myfile2.txt, etc. — Files used for file handling exercises.
 
 #### name.py, magic_method.py — Modules used to demonstrate imports and magic methods.
+
+---
 
 ### Highlights
 #### 100+ examples and explanatory comments
