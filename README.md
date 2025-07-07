@@ -1,7 +1,7 @@
-# Python Full Tutorial — Beginner to Advanced
+# 🐍Python Full Tutorial — Beginner to Advanced
 #### Welcome to the ultimate Python tutorial repository! This project covers everything from the basics to advanced-level topics in Python programming, explained with practical examples, comments, and clean formatting.
 
-## What You'll Learn
+## What covers
 ### Python Fundamentals
 - Print statements, comments, and escape characters
 
@@ -143,4 +143,5 @@ Special thanks to CodeWithHarry whose tutorials played a major role in helping m
 
 - Real Python
 
+# 👉 explaination and defination with proper example is mention with every file if any doubt regarding topic - go and visit those files
 
